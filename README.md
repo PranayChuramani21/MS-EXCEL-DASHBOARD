@@ -12,4 +12,4 @@ This Dashboard is created using Advanced Excel that displays sub-sectors of vari
 * Bivariate Analysis
 * Data Analysis
 
-#### For viewing this Dashboard kindly download this file.
+#### For viewing this Dashboard kindly click on "View raw".
