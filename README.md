@@ -1,6 +1,6 @@
 # MS-EXCEL-DASHBOARD
 
-#### This Dashboard is created using Advanced Excel that displays sub-sectors of various companies.
+This Dashboard is created using Advanced Excel that displays sub-sectors of various companies.
 
 
 ## Tools and Techniques:
